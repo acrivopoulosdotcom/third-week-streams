@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class ThirdWeekStreamsApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(ThirdWeekStreamsApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(ThirdWeekStreamsApplication.class, args);
+    }
 
 }
